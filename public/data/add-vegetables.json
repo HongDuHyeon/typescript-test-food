@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 81,
+      "name": "치즈김밥",
+      "canBuy": true,
+      "price": 5500
+    },
+    {
+      "id": 82,
+      "name": "멸치김밥",
+      "canBuy": false,
+      "price": 1500
+    },
+    {
+      "id": 83,
+      "name": "누룽지",
+      "canBuy": true,
+      "price": 8000
+    }
+  ]
+}

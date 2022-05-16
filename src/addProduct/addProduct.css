@@ -1,0 +1,21 @@
+.product {
+  margin-bottom: 10px;
+}
+
+.product.soldOut {
+  color: #c0c0c0;
+  text-decoration: line-through;
+}
+
+.addButton {
+  margin-left: 10px;
+  padding: 0px 5px;
+  border: 1px solid #000;
+}
+
+.addButton:disabled,
+.addButton[disabled] {
+  color: #c0c0c0;
+  border: 1px solid #c0c0c0;
+  cursor: default;
+}

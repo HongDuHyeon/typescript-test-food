@@ -1,0 +1,12 @@
+.weekly {
+  margin-bottom: 20px;
+}
+
+.item {
+  margin-right: 20px;
+}
+
+.item.remove {
+  text-decoration: line-through;
+  color: #918d8d;
+}
